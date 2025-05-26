@@ -40,7 +40,13 @@ Alternatively, open the app folder in RStudio and click the **Run App** button.
 - shinydashboard  
 - tidyverse  
 - plotly  
-- DT  
+- DT
+
+## Live App
+
+You can view the live Shiny app here:  
+👉 [interview_practise on shinyapps.io](https://ray254.shinyapps.io/interview_practise)
+
 
 ## Contact
 
